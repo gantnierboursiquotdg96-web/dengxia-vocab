@@ -1,0 +1,3492 @@
+{
+  "version": 1,
+  "storyId": "jiedengren-cet4-test",
+  "engine": "Microsoft Edge neural TTS via edge-tts",
+  "generatedAt": "2026-10-31",
+  "sourceSha256": "965b5c256b11761de9a8b153e6f8e271af2d7ed80f9b1632568f138558cf7adb",
+  "voices": [
+    {
+      "id": "male",
+      "name": "zh-CN-YunxiNeural",
+      "label": "沉稳男声",
+      "description": "云希 · 中文神经合成 · 舒缓讲述"
+    },
+    {
+      "id": "female",
+      "name": "zh-CN-XiaoxiaoNeural",
+      "label": "温柔女声",
+      "description": "晓晓 · 中文神经合成 · 轻柔讲述"
+    }
+  ],
+  "tracks": {
+    "male": {
+      "story": [
+        {
+          "chapter": 0,
+          "src": "tracks/male/story/01.mp3",
+          "duration": 123.408,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.361
+            },
+            {
+              "index": 1,
+              "start": 4.361,
+              "end": 9.307
+            },
+            {
+              "index": 2,
+              "start": 9.307,
+              "end": 17.636
+            },
+            {
+              "index": 3,
+              "start": 17.636,
+              "end": 20.231
+            },
+            {
+              "index": 4,
+              "start": 20.231,
+              "end": 24.62
+            },
+            {
+              "index": 5,
+              "start": 24.62,
+              "end": 33.356
+            },
+            {
+              "index": 6,
+              "start": 33.356,
+              "end": 36.318
+            },
+            {
+              "index": 7,
+              "start": 36.318,
+              "end": 38.587
+            },
+            {
+              "index": 8,
+              "start": 38.587,
+              "end": 42.935
+            },
+            {
+              "index": 9,
+              "start": 42.935,
+              "end": 45.489
+            },
+            {
+              "index": 10,
+              "start": 45.489,
+              "end": 58.329
+            },
+            {
+              "index": 11,
+              "start": 58.329,
+              "end": 61.726
+            },
+            {
+              "index": 12,
+              "start": 61.726,
+              "end": 64.823
+            },
+            {
+              "index": 13,
+              "start": 64.823,
+              "end": 75.788
+            },
+            {
+              "index": 14,
+              "start": 75.788,
+              "end": 78.899
+            },
+            {
+              "index": 15,
+              "start": 78.899,
+              "end": 84.783
+            },
+            {
+              "index": 16,
+              "start": 84.783,
+              "end": 98.913
+            },
+            {
+              "index": 17,
+              "start": 98.913,
+              "end": 102.663
+            },
+            {
+              "index": 18,
+              "start": 102.663,
+              "end": 113.329
+            },
+            {
+              "index": 19,
+              "start": 113.329,
+              "end": 117.024
+            },
+            {
+              "index": 20,
+              "start": 117.024,
+              "end": 118.519
+            },
+            {
+              "index": 21,
+              "start": 118.519,
+              "end": 123.408
+            }
+          ]
+        },
+        {
+          "chapter": 1,
+          "src": "tracks/male/story/02.mp3",
+          "duration": 95.136,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 5.978
+            },
+            {
+              "index": 1,
+              "start": 5.978,
+              "end": 10.897
+            },
+            {
+              "index": 2,
+              "start": 10.897,
+              "end": 22.486
+            },
+            {
+              "index": 3,
+              "start": 22.486,
+              "end": 26.726
+            },
+            {
+              "index": 4,
+              "start": 26.726,
+              "end": 28.533
+            },
+            {
+              "index": 5,
+              "start": 28.533,
+              "end": 38.533
+            },
+            {
+              "index": 6,
+              "start": 38.533,
+              "end": 42.908
+            },
+            {
+              "index": 7,
+              "start": 42.908,
+              "end": 47.337
+            },
+            {
+              "index": 8,
+              "start": 47.337,
+              "end": 50.462
+            },
+            {
+              "index": 9,
+              "start": 50.462,
+              "end": 54.633
+            },
+            {
+              "index": 10,
+              "start": 54.633,
+              "end": 61.372
+            },
+            {
+              "index": 11,
+              "start": 61.372,
+              "end": 63.084
+            },
+            {
+              "index": 12,
+              "start": 63.084,
+              "end": 74.497
+            },
+            {
+              "index": 13,
+              "start": 74.497,
+              "end": 77.976
+            },
+            {
+              "index": 14,
+              "start": 77.976,
+              "end": 80.611
+            },
+            {
+              "index": 15,
+              "start": 80.611,
+              "end": 85.054
+            },
+            {
+              "index": 16,
+              "start": 85.054,
+              "end": 89.633
+            },
+            {
+              "index": 17,
+              "start": 89.633,
+              "end": 95.136
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "src": "tracks/male/story/03.mp3",
+          "duration": 131.208,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 8.315
+            },
+            {
+              "index": 1,
+              "start": 8.315,
+              "end": 21.617
+            },
+            {
+              "index": 2,
+              "start": 21.617,
+              "end": 24.742
+            },
+            {
+              "index": 3,
+              "start": 24.742,
+              "end": 35.666
+            },
+            {
+              "index": 4,
+              "start": 35.666,
+              "end": 40.0
+            },
+            {
+              "index": 5,
+              "start": 40.0,
+              "end": 42.758
+            },
+            {
+              "index": 6,
+              "start": 42.758,
+              "end": 52.541
+            },
+            {
+              "index": 7,
+              "start": 52.541,
+              "end": 55.72
+            },
+            {
+              "index": 8,
+              "start": 55.72,
+              "end": 64.511
+            },
+            {
+              "index": 9,
+              "start": 64.511,
+              "end": 68.872
+            },
+            {
+              "index": 10,
+              "start": 68.872,
+              "end": 73.519
+            },
+            {
+              "index": 11,
+              "start": 73.519,
+              "end": 77.962
+            },
+            {
+              "index": 12,
+              "start": 77.962,
+              "end": 80.924
+            },
+            {
+              "index": 13,
+              "start": 80.924,
+              "end": 84.918
+            },
+            {
+              "index": 14,
+              "start": 84.918,
+              "end": 86.739
+            },
+            {
+              "index": 15,
+              "start": 86.739,
+              "end": 96.196
+            },
+            {
+              "index": 16,
+              "start": 96.196,
+              "end": 100.747
+            },
+            {
+              "index": 17,
+              "start": 100.747,
+              "end": 105.014
+            },
+            {
+              "index": 18,
+              "start": 105.014,
+              "end": 108.397
+            },
+            {
+              "index": 19,
+              "start": 108.397,
+              "end": 124.117
+            },
+            {
+              "index": 20,
+              "start": 124.117,
+              "end": 127.84
+            },
+            {
+              "index": 21,
+              "start": 127.84,
+              "end": 131.208
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "src": "tracks/male/story/04.mp3",
+          "duration": 91.176,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 3.954
+            },
+            {
+              "index": 1,
+              "start": 3.954,
+              "end": 14.538
+            },
+            {
+              "index": 2,
+              "start": 14.538,
+              "end": 19.62
+            },
+            {
+              "index": 3,
+              "start": 19.62,
+              "end": 21.671
+            },
+            {
+              "index": 4,
+              "start": 21.671,
+              "end": 26.562
+            },
+            {
+              "index": 5,
+              "start": 26.562,
+              "end": 34.66
+            },
+            {
+              "index": 6,
+              "start": 34.66,
+              "end": 36.753
+            },
+            {
+              "index": 7,
+              "start": 36.753,
+              "end": 41.875
+            },
+            {
+              "index": 8,
+              "start": 41.875,
+              "end": 43.777
+            },
+            {
+              "index": 9,
+              "start": 43.777,
+              "end": 45.421
+            },
+            {
+              "index": 10,
+              "start": 45.421,
+              "end": 52.283
+            },
+            {
+              "index": 11,
+              "start": 52.283,
+              "end": 58.139
+            },
+            {
+              "index": 12,
+              "start": 58.139,
+              "end": 60.448
+            },
+            {
+              "index": 13,
+              "start": 60.448,
+              "end": 72.473
+            },
+            {
+              "index": 14,
+              "start": 72.473,
+              "end": 75.136
+            },
+            {
+              "index": 15,
+              "start": 75.136,
+              "end": 80.312
+            },
+            {
+              "index": 16,
+              "start": 80.312,
+              "end": 84.457
+            },
+            {
+              "index": 17,
+              "start": 84.457,
+              "end": 87.867
+            },
+            {
+              "index": 18,
+              "start": 87.867,
+              "end": 91.176
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "src": "tracks/male/story/05.mp3",
+          "duration": 164.856,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.09
+            },
+            {
+              "index": 1,
+              "start": 4.09,
+              "end": 8.668
+            },
+            {
+              "index": 2,
+              "start": 8.668,
+              "end": 16.427
+            },
+            {
+              "index": 3,
+              "start": 16.427,
+              "end": 19.633
+            },
+            {
+              "index": 4,
+              "start": 19.633,
+              "end": 28.098
+            },
+            {
+              "index": 5,
+              "start": 28.098,
+              "end": 30.937
+            },
+            {
+              "index": 6,
+              "start": 30.937,
+              "end": 34.144
+            },
+            {
+              "index": 7,
+              "start": 34.144,
+              "end": 38.193
+            },
+            {
+              "index": 8,
+              "start": 38.193,
+              "end": 43.22
+            },
+            {
+              "index": 9,
+              "start": 43.22,
+              "end": 46.182
+            },
+            {
+              "index": 10,
+              "start": 46.182,
+              "end": 48.519
+            },
+            {
+              "index": 11,
+              "start": 48.519,
+              "end": 52.024
+            },
+            {
+              "index": 12,
+              "start": 52.024,
+              "end": 55.666
+            },
+            {
+              "index": 13,
+              "start": 55.666,
+              "end": 67.16
+            },
+            {
+              "index": 14,
+              "start": 67.16,
+              "end": 68.804
+            },
+            {
+              "index": 15,
+              "start": 68.804,
+              "end": 71.073
+            },
+            {
+              "index": 16,
+              "start": 71.073,
+              "end": 80.367
+            },
+            {
+              "index": 17,
+              "start": 80.367,
+              "end": 84.185
+            },
+            {
+              "index": 18,
+              "start": 84.185,
+              "end": 85.802
+            },
+            {
+              "index": 19,
+              "start": 85.802,
+              "end": 91.101
+            },
+            {
+              "index": 20,
+              "start": 91.101,
+              "end": 100.788
+            },
+            {
+              "index": 21,
+              "start": 100.788,
+              "end": 104.633
+            },
+            {
+              "index": 22,
+              "start": 104.633,
+              "end": 105.937
+            },
+            {
+              "index": 23,
+              "start": 105.937,
+              "end": 108.111
+            },
+            {
+              "index": 24,
+              "start": 108.111,
+              "end": 117.826
+            },
+            {
+              "index": 25,
+              "start": 117.826,
+              "end": 119.497
+            },
+            {
+              "index": 26,
+              "start": 119.497,
+              "end": 121.766
+            },
+            {
+              "index": 27,
+              "start": 121.766,
+              "end": 125.326
+            },
+            {
+              "index": 28,
+              "start": 125.326,
+              "end": 135.163
+            },
+            {
+              "index": 29,
+              "start": 135.163,
+              "end": 136.834
+            },
+            {
+              "index": 30,
+              "start": 136.834,
+              "end": 141.25
+            },
+            {
+              "index": 31,
+              "start": 141.25,
+              "end": 145.679
+            },
+            {
+              "index": 32,
+              "start": 145.679,
+              "end": 149.402
+            },
+            {
+              "index": 33,
+              "start": 149.402,
+              "end": 153.696
+            },
+            {
+              "index": 34,
+              "start": 153.696,
+              "end": 159.389
+            },
+            {
+              "index": 35,
+              "start": 159.389,
+              "end": 164.856
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "src": "tracks/male/story/06.mp3",
+          "duration": 109.368,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 2.269
+            },
+            {
+              "index": 1,
+              "start": 2.269,
+              "end": 7.31
+            },
+            {
+              "index": 2,
+              "start": 7.31,
+              "end": 11.372
+            },
+            {
+              "index": 3,
+              "start": 11.372,
+              "end": 15.245
+            },
+            {
+              "index": 4,
+              "start": 15.245,
+              "end": 18.899
+            },
+            {
+              "index": 5,
+              "start": 18.899,
+              "end": 23.084
+            },
+            {
+              "index": 6,
+              "start": 23.084,
+              "end": 26.617
+            },
+            {
+              "index": 7,
+              "start": 26.617,
+              "end": 28.696
+            },
+            {
+              "index": 8,
+              "start": 28.696,
+              "end": 32.582
+            },
+            {
+              "index": 9,
+              "start": 32.582,
+              "end": 33.899
+            },
+            {
+              "index": 10,
+              "start": 33.899,
+              "end": 37.921
+            },
+            {
+              "index": 11,
+              "start": 37.921,
+              "end": 41.223
+            },
+            {
+              "index": 12,
+              "start": 41.223,
+              "end": 50.707
+            },
+            {
+              "index": 13,
+              "start": 50.707,
+              "end": 54.022
+            },
+            {
+              "index": 14,
+              "start": 54.022,
+              "end": 63.668
+            },
+            {
+              "index": 15,
+              "start": 63.668,
+              "end": 69.13
+            },
+            {
+              "index": 16,
+              "start": 69.13,
+              "end": 73.804
+            },
+            {
+              "index": 17,
+              "start": 73.804,
+              "end": 79.742
+            },
+            {
+              "index": 18,
+              "start": 79.742,
+              "end": 89.334
+            },
+            {
+              "index": 19,
+              "start": 89.334,
+              "end": 90.625
+            },
+            {
+              "index": 20,
+              "start": 90.625,
+              "end": 93.057
+            },
+            {
+              "index": 21,
+              "start": 93.057,
+              "end": 96.698
+            },
+            {
+              "index": 22,
+              "start": 96.698,
+              "end": 99.076
+            },
+            {
+              "index": 23,
+              "start": 99.076,
+              "end": 103.37
+            },
+            {
+              "index": 24,
+              "start": 103.37,
+              "end": 109.368
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "src": "tracks/male/story/07.mp3",
+          "duration": 64.2,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 5.774
+            },
+            {
+              "index": 1,
+              "start": 5.774,
+              "end": 7.677
+            },
+            {
+              "index": 2,
+              "start": 7.677,
+              "end": 15.136
+            },
+            {
+              "index": 3,
+              "start": 15.136,
+              "end": 20.217
+            },
+            {
+              "index": 4,
+              "start": 20.217,
+              "end": 26.902
+            },
+            {
+              "index": 5,
+              "start": 26.902,
+              "end": 29.783
+            },
+            {
+              "index": 6,
+              "start": 29.783,
+              "end": 33.084
+            },
+            {
+              "index": 7,
+              "start": 33.084,
+              "end": 36.359
+            },
+            {
+              "index": 8,
+              "start": 36.359,
+              "end": 37.745
+            },
+            {
+              "index": 9,
+              "start": 37.745,
+              "end": 46.141
+            },
+            {
+              "index": 10,
+              "start": 46.141,
+              "end": 50.109
+            },
+            {
+              "index": 11,
+              "start": 50.109,
+              "end": 54.511
+            },
+            {
+              "index": 12,
+              "start": 54.511,
+              "end": 58.723
+            },
+            {
+              "index": 13,
+              "start": 58.723,
+              "end": 59.918
+            },
+            {
+              "index": 14,
+              "start": 59.918,
+              "end": 64.2
+            }
+          ]
+        }
+      ],
+      "study": [
+        {
+          "chapter": 0,
+          "src": "tracks/male/study/01.mp3",
+          "duration": 142.608,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.666
+            },
+            {
+              "index": 1,
+              "start": 4.666,
+              "end": 9.956
+            },
+            {
+              "index": 2,
+              "start": 9.956,
+              "end": 20.058
+            },
+            {
+              "index": 3,
+              "start": 20.058,
+              "end": 22.834
+            },
+            {
+              "index": 4,
+              "start": 22.834,
+              "end": 27.529
+            },
+            {
+              "index": 5,
+              "start": 27.529,
+              "end": 36.875
+            },
+            {
+              "index": 6,
+              "start": 36.875,
+              "end": 42.02
+            },
+            {
+              "index": 7,
+              "start": 42.02,
+              "end": 44.448
+            },
+            {
+              "index": 8,
+              "start": 44.448,
+              "end": 49.099
+            },
+            {
+              "index": 9,
+              "start": 49.099,
+              "end": 52.631
+            },
+            {
+              "index": 10,
+              "start": 52.631,
+              "end": 68.212
+            },
+            {
+              "index": 11,
+              "start": 68.212,
+              "end": 72.834
+            },
+            {
+              "index": 12,
+              "start": 72.834,
+              "end": 76.148
+            },
+            {
+              "index": 13,
+              "start": 76.148,
+              "end": 89.39
+            },
+            {
+              "index": 14,
+              "start": 89.39,
+              "end": 92.718
+            },
+            {
+              "index": 15,
+              "start": 92.718,
+              "end": 99.012
+            },
+            {
+              "index": 16,
+              "start": 99.012,
+              "end": 115.029
+            },
+            {
+              "index": 17,
+              "start": 115.029,
+              "end": 119.041
+            },
+            {
+              "index": 18,
+              "start": 119.041,
+              "end": 130.451
+            },
+            {
+              "index": 19,
+              "start": 130.451,
+              "end": 135.741
+            },
+            {
+              "index": 20,
+              "start": 135.741,
+              "end": 137.34
+            },
+            {
+              "index": 21,
+              "start": 137.34,
+              "end": 142.608
+            }
+          ]
+        },
+        {
+          "chapter": 1,
+          "src": "tracks/male/study/02.mp3",
+          "duration": 107.232,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 6.395
+            },
+            {
+              "index": 1,
+              "start": 6.395,
+              "end": 12.834
+            },
+            {
+              "index": 2,
+              "start": 12.834,
+              "end": 25.233
+            },
+            {
+              "index": 3,
+              "start": 25.233,
+              "end": 30.828
+            },
+            {
+              "index": 4,
+              "start": 30.828,
+              "end": 32.762
+            },
+            {
+              "index": 5,
+              "start": 32.762,
+              "end": 43.459
+            },
+            {
+              "index": 6,
+              "start": 43.459,
+              "end": 48.14
+            },
+            {
+              "index": 7,
+              "start": 48.14,
+              "end": 53.852
+            },
+            {
+              "index": 8,
+              "start": 53.852,
+              "end": 58.285
+            },
+            {
+              "index": 9,
+              "start": 58.285,
+              "end": 63.895
+            },
+            {
+              "index": 10,
+              "start": 63.895,
+              "end": 71.105
+            },
+            {
+              "index": 11,
+              "start": 71.105,
+              "end": 72.936
+            },
+            {
+              "index": 12,
+              "start": 72.936,
+              "end": 85.145
+            },
+            {
+              "index": 13,
+              "start": 85.145,
+              "end": 88.866
+            },
+            {
+              "index": 14,
+              "start": 88.866,
+              "end": 91.686
+            },
+            {
+              "index": 15,
+              "start": 91.686,
+              "end": 96.439
+            },
+            {
+              "index": 16,
+              "start": 96.439,
+              "end": 101.337
+            },
+            {
+              "index": 17,
+              "start": 101.337,
+              "end": 107.232
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "src": "tracks/male/study/03.mp3",
+          "duration": 152.712,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 11.395
+            },
+            {
+              "index": 1,
+              "start": 11.395,
+              "end": 25.625
+            },
+            {
+              "index": 2,
+              "start": 25.625,
+              "end": 30.698
+            },
+            {
+              "index": 3,
+              "start": 30.698,
+              "end": 42.384
+            },
+            {
+              "index": 4,
+              "start": 42.384,
+              "end": 48.328
+            },
+            {
+              "index": 5,
+              "start": 48.328,
+              "end": 51.279
+            },
+            {
+              "index": 6,
+              "start": 51.279,
+              "end": 62.631
+            },
+            {
+              "index": 7,
+              "start": 62.631,
+              "end": 66.032
+            },
+            {
+              "index": 8,
+              "start": 66.032,
+              "end": 76.555
+            },
+            {
+              "index": 9,
+              "start": 76.555,
+              "end": 82.384
+            },
+            {
+              "index": 10,
+              "start": 82.384,
+              "end": 87.355
+            },
+            {
+              "index": 11,
+              "start": 87.355,
+              "end": 93.474
+            },
+            {
+              "index": 12,
+              "start": 93.474,
+              "end": 96.642
+            },
+            {
+              "index": 13,
+              "start": 96.642,
+              "end": 102.253
+            },
+            {
+              "index": 14,
+              "start": 102.253,
+              "end": 104.201
+            },
+            {
+              "index": 15,
+              "start": 104.201,
+              "end": 114.317
+            },
+            {
+              "index": 16,
+              "start": 114.317,
+              "end": 119.186
+            },
+            {
+              "index": 17,
+              "start": 119.186,
+              "end": 124.666
+            },
+            {
+              "index": 18,
+              "start": 124.666,
+              "end": 128.285
+            },
+            {
+              "index": 19,
+              "start": 128.285,
+              "end": 145.102
+            },
+            {
+              "index": 20,
+              "start": 145.102,
+              "end": 149.084
+            },
+            {
+              "index": 21,
+              "start": 149.084,
+              "end": 152.712
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "src": "tracks/male/study/04.mp3",
+          "duration": 106.536,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 5.552
+            },
+            {
+              "index": 1,
+              "start": 5.552,
+              "end": 19.084
+            },
+            {
+              "index": 2,
+              "start": 19.084,
+              "end": 24.52
+            },
+            {
+              "index": 3,
+              "start": 24.52,
+              "end": 26.715
+            },
+            {
+              "index": 4,
+              "start": 26.715,
+              "end": 31.948
+            },
+            {
+              "index": 5,
+              "start": 31.948,
+              "end": 40.61
+            },
+            {
+              "index": 6,
+              "start": 40.61,
+              "end": 44.491
+            },
+            {
+              "index": 7,
+              "start": 44.491,
+              "end": 49.971
+            },
+            {
+              "index": 8,
+              "start": 49.971,
+              "end": 52.006
+            },
+            {
+              "index": 9,
+              "start": 52.006,
+              "end": 54.68
+            },
+            {
+              "index": 10,
+              "start": 54.68,
+              "end": 62.02
+            },
+            {
+              "index": 11,
+              "start": 62.02,
+              "end": 68.285
+            },
+            {
+              "index": 12,
+              "start": 68.285,
+              "end": 70.756
+            },
+            {
+              "index": 13,
+              "start": 70.756,
+              "end": 84.811
+            },
+            {
+              "index": 14,
+              "start": 84.811,
+              "end": 87.66
+            },
+            {
+              "index": 15,
+              "start": 87.66,
+              "end": 94.913
+            },
+            {
+              "index": 16,
+              "start": 94.913,
+              "end": 99.346
+            },
+            {
+              "index": 17,
+              "start": 99.346,
+              "end": 102.994
+            },
+            {
+              "index": 18,
+              "start": 102.994,
+              "end": 106.536
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "src": "tracks/male/study/05.mp3",
+          "duration": 186.192,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.375
+            },
+            {
+              "index": 1,
+              "start": 4.375,
+              "end": 9.273
+            },
+            {
+              "index": 2,
+              "start": 9.273,
+              "end": 19.433
+            },
+            {
+              "index": 3,
+              "start": 19.433,
+              "end": 22.863
+            },
+            {
+              "index": 4,
+              "start": 22.863,
+              "end": 31.919
+            },
+            {
+              "index": 5,
+              "start": 31.919,
+              "end": 34.956
+            },
+            {
+              "index": 6,
+              "start": 34.956,
+              "end": 38.387
+            },
+            {
+              "index": 7,
+              "start": 38.387,
+              "end": 43.983
+            },
+            {
+              "index": 8,
+              "start": 43.983,
+              "end": 49.36
+            },
+            {
+              "index": 9,
+              "start": 49.36,
+              "end": 52.529
+            },
+            {
+              "index": 10,
+              "start": 52.529,
+              "end": 55.029
+            },
+            {
+              "index": 11,
+              "start": 55.029,
+              "end": 59.506
+            },
+            {
+              "index": 12,
+              "start": 59.506,
+              "end": 63.401
+            },
+            {
+              "index": 13,
+              "start": 63.401,
+              "end": 75.698
+            },
+            {
+              "index": 14,
+              "start": 75.698,
+              "end": 78.299
+            },
+            {
+              "index": 15,
+              "start": 78.299,
+              "end": 80.727
+            },
+            {
+              "index": 16,
+              "start": 80.727,
+              "end": 90.669
+            },
+            {
+              "index": 17,
+              "start": 90.669,
+              "end": 94.753
+            },
+            {
+              "index": 18,
+              "start": 94.753,
+              "end": 96.483
+            },
+            {
+              "index": 19,
+              "start": 96.483,
+              "end": 102.151
+            },
+            {
+              "index": 20,
+              "start": 102.151,
+              "end": 112.515
+            },
+            {
+              "index": 21,
+              "start": 112.515,
+              "end": 116.628
+            },
+            {
+              "index": 22,
+              "start": 116.628,
+              "end": 118.023
+            },
+            {
+              "index": 23,
+              "start": 118.023,
+              "end": 120.349
+            },
+            {
+              "index": 24,
+              "start": 120.349,
+              "end": 130.741
+            },
+            {
+              "index": 25,
+              "start": 130.741,
+              "end": 132.529
+            },
+            {
+              "index": 26,
+              "start": 132.529,
+              "end": 134.956
+            },
+            {
+              "index": 27,
+              "start": 134.956,
+              "end": 138.765
+            },
+            {
+              "index": 28,
+              "start": 138.765,
+              "end": 149.288
+            },
+            {
+              "index": 29,
+              "start": 149.288,
+              "end": 151.076
+            },
+            {
+              "index": 30,
+              "start": 151.076,
+              "end": 155.799
+            },
+            {
+              "index": 31,
+              "start": 155.799,
+              "end": 161.948
+            },
+            {
+              "index": 32,
+              "start": 161.948,
+              "end": 166.744
+            },
+            {
+              "index": 33,
+              "start": 166.744,
+              "end": 172.747
+            },
+            {
+              "index": 34,
+              "start": 172.747,
+              "end": 178.837
+            },
+            {
+              "index": 35,
+              "start": 178.837,
+              "end": 186.192
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "src": "tracks/male/study/06.mp3",
+          "duration": 122.712,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 3.27
+            },
+            {
+              "index": 1,
+              "start": 3.27,
+              "end": 9.956
+            },
+            {
+              "index": 2,
+              "start": 9.956,
+              "end": 15.058
+            },
+            {
+              "index": 3,
+              "start": 15.058,
+              "end": 19.201
+            },
+            {
+              "index": 4,
+              "start": 19.201,
+              "end": 23.11
+            },
+            {
+              "index": 5,
+              "start": 23.11,
+              "end": 27.587
+            },
+            {
+              "index": 6,
+              "start": 27.587,
+              "end": 32.863
+            },
+            {
+              "index": 7,
+              "start": 32.863,
+              "end": 35.087
+            },
+            {
+              "index": 8,
+              "start": 35.087,
+              "end": 39.244
+            },
+            {
+              "index": 9,
+              "start": 39.244,
+              "end": 40.654
+            },
+            {
+              "index": 10,
+              "start": 40.654,
+              "end": 44.956
+            },
+            {
+              "index": 11,
+              "start": 44.956,
+              "end": 48.488
+            },
+            {
+              "index": 12,
+              "start": 48.488,
+              "end": 58.634
+            },
+            {
+              "index": 13,
+              "start": 58.634,
+              "end": 62.18
+            },
+            {
+              "index": 14,
+              "start": 62.18,
+              "end": 72.5
+            },
+            {
+              "index": 15,
+              "start": 72.5,
+              "end": 78.343
+            },
+            {
+              "index": 16,
+              "start": 78.343,
+              "end": 83.343
+            },
+            {
+              "index": 17,
+              "start": 83.343,
+              "end": 89.695
+            },
+            {
+              "index": 18,
+              "start": 89.695,
+              "end": 99.956
+            },
+            {
+              "index": 19,
+              "start": 99.956,
+              "end": 101.337
+            },
+            {
+              "index": 20,
+              "start": 101.337,
+              "end": 103.939
+            },
+            {
+              "index": 21,
+              "start": 103.939,
+              "end": 109.128
+            },
+            {
+              "index": 22,
+              "start": 109.128,
+              "end": 111.672
+            },
+            {
+              "index": 23,
+              "start": 111.672,
+              "end": 116.265
+            },
+            {
+              "index": 24,
+              "start": 116.265,
+              "end": 122.712
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "src": "tracks/male/study/07.mp3",
+          "duration": 73.248,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 7.573
+            },
+            {
+              "index": 1,
+              "start": 7.573,
+              "end": 9.608
+            },
+            {
+              "index": 2,
+              "start": 9.608,
+              "end": 17.587
+            },
+            {
+              "index": 3,
+              "start": 17.587,
+              "end": 23.023
+            },
+            {
+              "index": 4,
+              "start": 23.023,
+              "end": 32.442
+            },
+            {
+              "index": 5,
+              "start": 32.442,
+              "end": 36.439
+            },
+            {
+              "index": 6,
+              "start": 36.439,
+              "end": 39.971
+            },
+            {
+              "index": 7,
+              "start": 39.971,
+              "end": 43.474
+            },
+            {
+              "index": 8,
+              "start": 43.474,
+              "end": 44.956
+            },
+            {
+              "index": 9,
+              "start": 44.956,
+              "end": 53.939
+            },
+            {
+              "index": 10,
+              "start": 53.939,
+              "end": 58.183
+            },
+            {
+              "index": 11,
+              "start": 58.183,
+              "end": 62.892
+            },
+            {
+              "index": 12,
+              "start": 62.892,
+              "end": 67.398
+            },
+            {
+              "index": 13,
+              "start": 67.398,
+              "end": 68.677
+            },
+            {
+              "index": 14,
+              "start": 68.677,
+              "end": 73.248
+            }
+          ]
+        }
+      ]
+    },
+    "female": {
+      "story": [
+        {
+          "chapter": 0,
+          "src": "tracks/female/story/01.mp3",
+          "duration": 130.08,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.796
+            },
+            {
+              "index": 1,
+              "start": 4.796,
+              "end": 10.285
+            },
+            {
+              "index": 2,
+              "start": 10.285,
+              "end": 19.293
+            },
+            {
+              "index": 3,
+              "start": 19.293,
+              "end": 22.079
+            },
+            {
+              "index": 4,
+              "start": 22.079,
+              "end": 26.78
+            },
+            {
+              "index": 5,
+              "start": 26.78,
+              "end": 36.399
+            },
+            {
+              "index": 6,
+              "start": 36.399,
+              "end": 39.389
+            },
+            {
+              "index": 7,
+              "start": 39.389,
+              "end": 41.63
+            },
+            {
+              "index": 8,
+              "start": 41.63,
+              "end": 46.101
+            },
+            {
+              "index": 9,
+              "start": 46.101,
+              "end": 48.764
+            },
+            {
+              "index": 10,
+              "start": 48.764,
+              "end": 62.731
+            },
+            {
+              "index": 11,
+              "start": 62.731,
+              "end": 66.318
+            },
+            {
+              "index": 12,
+              "start": 66.318,
+              "end": 69.47
+            },
+            {
+              "index": 13,
+              "start": 69.47,
+              "end": 81.033
+            },
+            {
+              "index": 14,
+              "start": 81.033,
+              "end": 84.293
+            },
+            {
+              "index": 15,
+              "start": 84.293,
+              "end": 90.19
+            },
+            {
+              "index": 16,
+              "start": 90.19,
+              "end": 104.755
+            },
+            {
+              "index": 17,
+              "start": 104.755,
+              "end": 108.859
+            },
+            {
+              "index": 18,
+              "start": 108.859,
+              "end": 119.946
+            },
+            {
+              "index": 19,
+              "start": 119.946,
+              "end": 123.682
+            },
+            {
+              "index": 20,
+              "start": 123.682,
+              "end": 125.272
+            },
+            {
+              "index": 21,
+              "start": 125.272,
+              "end": 130.08
+            }
+          ]
+        },
+        {
+          "chapter": 1,
+          "src": "tracks/female/story/02.mp3",
+          "duration": 99.744,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 6.576
+            },
+            {
+              "index": 1,
+              "start": 6.576,
+              "end": 12.12
+            },
+            {
+              "index": 2,
+              "start": 12.12,
+              "end": 24.171
+            },
+            {
+              "index": 3,
+              "start": 24.171,
+              "end": 28.723
+            },
+            {
+              "index": 4,
+              "start": 28.723,
+              "end": 30.774
+            },
+            {
+              "index": 5,
+              "start": 30.774,
+              "end": 41.128
+            },
+            {
+              "index": 6,
+              "start": 41.128,
+              "end": 45.91
+            },
+            {
+              "index": 7,
+              "start": 45.91,
+              "end": 50.394
+            },
+            {
+              "index": 8,
+              "start": 50.394,
+              "end": 53.723
+            },
+            {
+              "index": 9,
+              "start": 53.723,
+              "end": 58.207
+            },
+            {
+              "index": 10,
+              "start": 58.207,
+              "end": 64.959
+            },
+            {
+              "index": 11,
+              "start": 64.959,
+              "end": 66.603
+            },
+            {
+              "index": 12,
+              "start": 66.603,
+              "end": 78.465
+            },
+            {
+              "index": 13,
+              "start": 78.465,
+              "end": 82.038
+            },
+            {
+              "index": 14,
+              "start": 82.038,
+              "end": 84.715
+            },
+            {
+              "index": 15,
+              "start": 84.715,
+              "end": 89.524
+            },
+            {
+              "index": 16,
+              "start": 89.524,
+              "end": 94.375
+            },
+            {
+              "index": 17,
+              "start": 94.375,
+              "end": 99.744
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "src": "tracks/female/story/03.mp3",
+          "duration": 137.088,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 8.614
+            },
+            {
+              "index": 1,
+              "start": 8.614,
+              "end": 22.908
+            },
+            {
+              "index": 2,
+              "start": 22.908,
+              "end": 26.073
+            },
+            {
+              "index": 3,
+              "start": 26.073,
+              "end": 37.459
+            },
+            {
+              "index": 4,
+              "start": 37.459,
+              "end": 42.092
+            },
+            {
+              "index": 5,
+              "start": 42.092,
+              "end": 44.891
+            },
+            {
+              "index": 6,
+              "start": 44.891,
+              "end": 55.054
+            },
+            {
+              "index": 7,
+              "start": 55.054,
+              "end": 58.274
+            },
+            {
+              "index": 8,
+              "start": 58.274,
+              "end": 67.486
+            },
+            {
+              "index": 9,
+              "start": 67.486,
+              "end": 72.201
+            },
+            {
+              "index": 10,
+              "start": 72.201,
+              "end": 76.997
+            },
+            {
+              "index": 11,
+              "start": 76.997,
+              "end": 81.549
+            },
+            {
+              "index": 12,
+              "start": 81.549,
+              "end": 84.579
+            },
+            {
+              "index": 13,
+              "start": 84.579,
+              "end": 88.886
+            },
+            {
+              "index": 14,
+              "start": 88.886,
+              "end": 90.897
+            },
+            {
+              "index": 15,
+              "start": 90.897,
+              "end": 101.155
+            },
+            {
+              "index": 16,
+              "start": 101.155,
+              "end": 106.019
+            },
+            {
+              "index": 17,
+              "start": 106.019,
+              "end": 110.34
+            },
+            {
+              "index": 18,
+              "start": 110.34,
+              "end": 113.832
+            },
+            {
+              "index": 19,
+              "start": 113.832,
+              "end": 129.851
+            },
+            {
+              "index": 20,
+              "start": 129.851,
+              "end": 133.913
+            },
+            {
+              "index": 21,
+              "start": 133.913,
+              "end": 137.088
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "src": "tracks/female/story/04.mp3",
+          "duration": 95.856,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 3.981
+            },
+            {
+              "index": 1,
+              "start": 3.981,
+              "end": 15.462
+            },
+            {
+              "index": 2,
+              "start": 15.462,
+              "end": 20.802
+            },
+            {
+              "index": 3,
+              "start": 20.802,
+              "end": 23.234
+            },
+            {
+              "index": 4,
+              "start": 23.234,
+              "end": 28.329
+            },
+            {
+              "index": 5,
+              "start": 28.329,
+              "end": 36.834
+            },
+            {
+              "index": 6,
+              "start": 36.834,
+              "end": 38.927
+            },
+            {
+              "index": 7,
+              "start": 38.927,
+              "end": 44.429
+            },
+            {
+              "index": 8,
+              "start": 44.429,
+              "end": 46.467
+            },
+            {
+              "index": 9,
+              "start": 46.467,
+              "end": 48.057
+            },
+            {
+              "index": 10,
+              "start": 48.057,
+              "end": 55.924
+            },
+            {
+              "index": 11,
+              "start": 55.924,
+              "end": 61.943
+            },
+            {
+              "index": 12,
+              "start": 61.943,
+              "end": 64.375
+            },
+            {
+              "index": 13,
+              "start": 64.375,
+              "end": 76.807
+            },
+            {
+              "index": 14,
+              "start": 76.807,
+              "end": 79.823
+            },
+            {
+              "index": 15,
+              "start": 79.823,
+              "end": 85.095
+            },
+            {
+              "index": 16,
+              "start": 85.095,
+              "end": 89.293
+            },
+            {
+              "index": 17,
+              "start": 89.293,
+              "end": 92.853
+            },
+            {
+              "index": 18,
+              "start": 92.853,
+              "end": 95.856
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "src": "tracks/female/story/05.mp3",
+          "duration": 174.024,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.375
+            },
+            {
+              "index": 1,
+              "start": 4.375,
+              "end": 9.035
+            },
+            {
+              "index": 2,
+              "start": 9.035,
+              "end": 17.038
+            },
+            {
+              "index": 3,
+              "start": 17.038,
+              "end": 20.38
+            },
+            {
+              "index": 4,
+              "start": 20.38,
+              "end": 29.402
+            },
+            {
+              "index": 5,
+              "start": 29.402,
+              "end": 32.446
+            },
+            {
+              "index": 6,
+              "start": 32.446,
+              "end": 35.666
+            },
+            {
+              "index": 7,
+              "start": 35.666,
+              "end": 40.19
+            },
+            {
+              "index": 8,
+              "start": 40.19,
+              "end": 45.679
+            },
+            {
+              "index": 9,
+              "start": 45.679,
+              "end": 48.465
+            },
+            {
+              "index": 10,
+              "start": 48.465,
+              "end": 51.005
+            },
+            {
+              "index": 11,
+              "start": 51.005,
+              "end": 54.524
+            },
+            {
+              "index": 12,
+              "start": 54.524,
+              "end": 58.22
+            },
+            {
+              "index": 13,
+              "start": 58.22,
+              "end": 70.53
+            },
+            {
+              "index": 14,
+              "start": 70.53,
+              "end": 72.283
+            },
+            {
+              "index": 15,
+              "start": 72.283,
+              "end": 74.701
+            },
+            {
+              "index": 16,
+              "start": 74.701,
+              "end": 84.402
+            },
+            {
+              "index": 17,
+              "start": 84.402,
+              "end": 88.071
+            },
+            {
+              "index": 18,
+              "start": 88.071,
+              "end": 89.66
+            },
+            {
+              "index": 19,
+              "start": 89.66,
+              "end": 95.068
+            },
+            {
+              "index": 20,
+              "start": 95.068,
+              "end": 105.883
+            },
+            {
+              "index": 21,
+              "start": 105.883,
+              "end": 109.878
+            },
+            {
+              "index": 22,
+              "start": 109.878,
+              "end": 111.168
+            },
+            {
+              "index": 23,
+              "start": 111.168,
+              "end": 113.492
+            },
+            {
+              "index": 24,
+              "start": 113.492,
+              "end": 123.777
+            },
+            {
+              "index": 25,
+              "start": 123.777,
+              "end": 125.476
+            },
+            {
+              "index": 26,
+              "start": 125.476,
+              "end": 128.016
+            },
+            {
+              "index": 27,
+              "start": 128.016,
+              "end": 131.712
+            },
+            {
+              "index": 28,
+              "start": 131.712,
+              "end": 142.269
+            },
+            {
+              "index": 29,
+              "start": 142.269,
+              "end": 144.022
+            },
+            {
+              "index": 30,
+              "start": 144.022,
+              "end": 148.533
+            },
+            {
+              "index": 31,
+              "start": 148.533,
+              "end": 153.234
+            },
+            {
+              "index": 32,
+              "start": 153.234,
+              "end": 157.215
+            },
+            {
+              "index": 33,
+              "start": 157.215,
+              "end": 161.726
+            },
+            {
+              "index": 34,
+              "start": 161.726,
+              "end": 168.03
+            },
+            {
+              "index": 35,
+              "start": 168.03,
+              "end": 174.024
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "src": "tracks/female/story/06.mp3",
+          "duration": 114.84,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 2.228
+            },
+            {
+              "index": 1,
+              "start": 2.228,
+              "end": 7.595
+            },
+            {
+              "index": 2,
+              "start": 7.595,
+              "end": 12.052
+            },
+            {
+              "index": 3,
+              "start": 12.052,
+              "end": 16.196
+            },
+            {
+              "index": 4,
+              "start": 16.196,
+              "end": 20.0
+            },
+            {
+              "index": 5,
+              "start": 20.0,
+              "end": 24.266
+            },
+            {
+              "index": 6,
+              "start": 24.266,
+              "end": 28.247
+            },
+            {
+              "index": 7,
+              "start": 28.247,
+              "end": 30.842
+            },
+            {
+              "index": 8,
+              "start": 30.842,
+              "end": 35.041
+            },
+            {
+              "index": 9,
+              "start": 35.041,
+              "end": 36.264
+            },
+            {
+              "index": 10,
+              "start": 36.264,
+              "end": 40.122
+            },
+            {
+              "index": 11,
+              "start": 40.122,
+              "end": 43.465
+            },
+            {
+              "index": 12,
+              "start": 43.465,
+              "end": 53.804
+            },
+            {
+              "index": 13,
+              "start": 53.804,
+              "end": 56.658
+            },
+            {
+              "index": 14,
+              "start": 56.658,
+              "end": 67.405
+            },
+            {
+              "index": 15,
+              "start": 67.405,
+              "end": 72.731
+            },
+            {
+              "index": 16,
+              "start": 72.731,
+              "end": 77.745
+            },
+            {
+              "index": 17,
+              "start": 77.745,
+              "end": 84.035
+            },
+            {
+              "index": 18,
+              "start": 84.035,
+              "end": 94.878
+            },
+            {
+              "index": 19,
+              "start": 94.878,
+              "end": 96.128
+            },
+            {
+              "index": 20,
+              "start": 96.128,
+              "end": 98.75
+            },
+            {
+              "index": 21,
+              "start": 98.75,
+              "end": 102.378
+            },
+            {
+              "index": 22,
+              "start": 102.378,
+              "end": 104.633
+            },
+            {
+              "index": 23,
+              "start": 104.633,
+              "end": 108.845
+            },
+            {
+              "index": 24,
+              "start": 108.845,
+              "end": 114.84
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "src": "tracks/female/story/07.mp3",
+          "duration": 66.576,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 5.937
+            },
+            {
+              "index": 1,
+              "start": 5.937,
+              "end": 7.88
+            },
+            {
+              "index": 2,
+              "start": 7.88,
+              "end": 16.087
+            },
+            {
+              "index": 3,
+              "start": 16.087,
+              "end": 21.617
+            },
+            {
+              "index": 4,
+              "start": 21.617,
+              "end": 29.076
+            },
+            {
+              "index": 5,
+              "start": 29.076,
+              "end": 32.174
+            },
+            {
+              "index": 6,
+              "start": 32.174,
+              "end": 35.761
+            },
+            {
+              "index": 7,
+              "start": 35.761,
+              "end": 39.117
+            },
+            {
+              "index": 8,
+              "start": 39.117,
+              "end": 40.516
+            },
+            {
+              "index": 9,
+              "start": 40.516,
+              "end": 49.049
+            },
+            {
+              "index": 10,
+              "start": 49.049,
+              "end": 53.098
+            },
+            {
+              "index": 11,
+              "start": 53.098,
+              "end": 57.432
+            },
+            {
+              "index": 12,
+              "start": 57.432,
+              "end": 61.875
+            },
+            {
+              "index": 13,
+              "start": 61.875,
+              "end": 62.853
+            },
+            {
+              "index": 14,
+              "start": 62.853,
+              "end": 66.576
+            }
+          ]
+        }
+      ],
+      "study": [
+        {
+          "chapter": 0,
+          "src": "tracks/female/study/01.mp3",
+          "duration": 147.984,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 5.131
+            },
+            {
+              "index": 1,
+              "start": 5.131,
+              "end": 11.003
+            },
+            {
+              "index": 2,
+              "start": 11.003,
+              "end": 21.642
+            },
+            {
+              "index": 3,
+              "start": 21.642,
+              "end": 24.622
+            },
+            {
+              "index": 4,
+              "start": 24.622,
+              "end": 29.651
+            },
+            {
+              "index": 5,
+              "start": 29.651,
+              "end": 39.942
+            },
+            {
+              "index": 6,
+              "start": 39.942,
+              "end": 44.564
+            },
+            {
+              "index": 7,
+              "start": 44.564,
+              "end": 46.962
+            },
+            {
+              "index": 8,
+              "start": 46.962,
+              "end": 51.744
+            },
+            {
+              "index": 9,
+              "start": 51.744,
+              "end": 55.392
+            },
+            {
+              "index": 10,
+              "start": 55.392,
+              "end": 72.006
+            },
+            {
+              "index": 11,
+              "start": 72.006,
+              "end": 76.628
+            },
+            {
+              "index": 12,
+              "start": 76.628,
+              "end": 80.0
+            },
+            {
+              "index": 13,
+              "start": 80.0,
+              "end": 93.619
+            },
+            {
+              "index": 14,
+              "start": 93.619,
+              "end": 97.108
+            },
+            {
+              "index": 15,
+              "start": 97.108,
+              "end": 103.416
+            },
+            {
+              "index": 16,
+              "start": 103.416,
+              "end": 119.738
+            },
+            {
+              "index": 17,
+              "start": 119.738,
+              "end": 124.128
+            },
+            {
+              "index": 18,
+              "start": 124.128,
+              "end": 135.988
+            },
+            {
+              "index": 19,
+              "start": 135.988,
+              "end": 141.119
+            },
+            {
+              "index": 20,
+              "start": 141.119,
+              "end": 142.82
+            },
+            {
+              "index": 21,
+              "start": 142.82,
+              "end": 147.984
+            }
+          ]
+        },
+        {
+          "chapter": 1,
+          "src": "tracks/female/study/02.mp3",
+          "duration": 111.288,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 7.035
+            },
+            {
+              "index": 1,
+              "start": 7.035,
+              "end": 13.895
+            },
+            {
+              "index": 2,
+              "start": 13.895,
+              "end": 26.788
+            },
+            {
+              "index": 3,
+              "start": 26.788,
+              "end": 32.544
+            },
+            {
+              "index": 4,
+              "start": 32.544,
+              "end": 34.738
+            },
+            {
+              "index": 5,
+              "start": 34.738,
+              "end": 45.814
+            },
+            {
+              "index": 6,
+              "start": 45.814,
+              "end": 50.93
+            },
+            {
+              "index": 7,
+              "start": 50.93,
+              "end": 56.628
+            },
+            {
+              "index": 8,
+              "start": 56.628,
+              "end": 61.192
+            },
+            {
+              "index": 9,
+              "start": 61.192,
+              "end": 66.846
+            },
+            {
+              "index": 10,
+              "start": 66.846,
+              "end": 74.07
+            },
+            {
+              "index": 11,
+              "start": 74.07,
+              "end": 75.828
+            },
+            {
+              "index": 12,
+              "start": 75.828,
+              "end": 88.517
+            },
+            {
+              "index": 13,
+              "start": 88.517,
+              "end": 92.34
+            },
+            {
+              "index": 14,
+              "start": 92.34,
+              "end": 95.203
+            },
+            {
+              "index": 15,
+              "start": 95.203,
+              "end": 100.349
+            },
+            {
+              "index": 16,
+              "start": 100.349,
+              "end": 105.538
+            },
+            {
+              "index": 17,
+              "start": 105.538,
+              "end": 111.288
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "src": "tracks/female/study/03.mp3",
+          "duration": 157.104,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 11.468
+            },
+            {
+              "index": 1,
+              "start": 11.468,
+              "end": 26.759
+            },
+            {
+              "index": 2,
+              "start": 26.759,
+              "end": 31.352
+            },
+            {
+              "index": 3,
+              "start": 31.352,
+              "end": 43.532
+            },
+            {
+              "index": 4,
+              "start": 43.532,
+              "end": 49.608
+            },
+            {
+              "index": 5,
+              "start": 49.608,
+              "end": 52.602
+            },
+            {
+              "index": 6,
+              "start": 52.602,
+              "end": 64.302
+            },
+            {
+              "index": 7,
+              "start": 64.302,
+              "end": 67.747
+            },
+            {
+              "index": 8,
+              "start": 67.747,
+              "end": 78.401
+            },
+            {
+              "index": 9,
+              "start": 78.401,
+              "end": 84.491
+            },
+            {
+              "index": 10,
+              "start": 84.491,
+              "end": 89.622
+            },
+            {
+              "index": 11,
+              "start": 89.622,
+              "end": 95.741
+            },
+            {
+              "index": 12,
+              "start": 95.741,
+              "end": 98.983
+            },
+            {
+              "index": 13,
+              "start": 98.983,
+              "end": 104.695
+            },
+            {
+              "index": 14,
+              "start": 104.695,
+              "end": 106.846
+            },
+            {
+              "index": 15,
+              "start": 106.846,
+              "end": 117.82
+            },
+            {
+              "index": 16,
+              "start": 117.82,
+              "end": 123.023
+            },
+            {
+              "index": 17,
+              "start": 123.023,
+              "end": 128.474
+            },
+            {
+              "index": 18,
+              "start": 128.474,
+              "end": 132.209
+            },
+            {
+              "index": 19,
+              "start": 132.209,
+              "end": 149.346
+            },
+            {
+              "index": 20,
+              "start": 149.346,
+              "end": 153.692
+            },
+            {
+              "index": 21,
+              "start": 153.692,
+              "end": 157.104
+            }
+          ]
+        },
+        {
+          "chapter": 3,
+          "src": "tracks/female/study/04.mp3",
+          "duration": 109.248,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 5.305
+            },
+            {
+              "index": 1,
+              "start": 5.305,
+              "end": 19.302
+            },
+            {
+              "index": 2,
+              "start": 19.302,
+              "end": 25.015
+            },
+            {
+              "index": 3,
+              "start": 25.015,
+              "end": 27.616
+            },
+            {
+              "index": 4,
+              "start": 27.616,
+              "end": 33.067
+            },
+            {
+              "index": 5,
+              "start": 33.067,
+              "end": 42.166
+            },
+            {
+              "index": 6,
+              "start": 42.166,
+              "end": 45.538
+            },
+            {
+              "index": 7,
+              "start": 45.538,
+              "end": 51.424
+            },
+            {
+              "index": 8,
+              "start": 51.424,
+              "end": 53.605
+            },
+            {
+              "index": 9,
+              "start": 53.605,
+              "end": 56.148
+            },
+            {
+              "index": 10,
+              "start": 56.148,
+              "end": 64.564
+            },
+            {
+              "index": 11,
+              "start": 64.564,
+              "end": 71.003
+            },
+            {
+              "index": 12,
+              "start": 71.003,
+              "end": 73.605
+            },
+            {
+              "index": 13,
+              "start": 73.605,
+              "end": 87.776
+            },
+            {
+              "index": 14,
+              "start": 87.776,
+              "end": 91.003
+            },
+            {
+              "index": 15,
+              "start": 91.003,
+              "end": 97.747
+            },
+            {
+              "index": 16,
+              "start": 97.747,
+              "end": 102.238
+            },
+            {
+              "index": 17,
+              "start": 102.238,
+              "end": 106.047
+            },
+            {
+              "index": 18,
+              "start": 106.047,
+              "end": 109.248
+            }
+          ]
+        },
+        {
+          "chapter": 4,
+          "src": "tracks/female/study/05.mp3",
+          "duration": 194.712,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 4.68
+            },
+            {
+              "index": 1,
+              "start": 4.68,
+              "end": 9.666
+            },
+            {
+              "index": 2,
+              "start": 9.666,
+              "end": 19.927
+            },
+            {
+              "index": 3,
+              "start": 19.927,
+              "end": 23.503
+            },
+            {
+              "index": 4,
+              "start": 23.503,
+              "end": 33.154
+            },
+            {
+              "index": 5,
+              "start": 33.154,
+              "end": 36.41
+            },
+            {
+              "index": 6,
+              "start": 36.41,
+              "end": 39.855
+            },
+            {
+              "index": 7,
+              "start": 39.855,
+              "end": 45.785
+            },
+            {
+              "index": 8,
+              "start": 45.785,
+              "end": 51.657
+            },
+            {
+              "index": 9,
+              "start": 51.657,
+              "end": 54.637
+            },
+            {
+              "index": 10,
+              "start": 54.637,
+              "end": 57.355
+            },
+            {
+              "index": 11,
+              "start": 57.355,
+              "end": 61.846
+            },
+            {
+              "index": 12,
+              "start": 61.846,
+              "end": 65.799
+            },
+            {
+              "index": 13,
+              "start": 65.799,
+              "end": 78.968
+            },
+            {
+              "index": 14,
+              "start": 78.968,
+              "end": 81.628
+            },
+            {
+              "index": 15,
+              "start": 81.628,
+              "end": 84.215
+            },
+            {
+              "index": 16,
+              "start": 84.215,
+              "end": 94.593
+            },
+            {
+              "index": 17,
+              "start": 94.593,
+              "end": 98.517
+            },
+            {
+              "index": 18,
+              "start": 98.517,
+              "end": 100.218
+            },
+            {
+              "index": 19,
+              "start": 100.218,
+              "end": 106.003
+            },
+            {
+              "index": 20,
+              "start": 106.003,
+              "end": 117.573
+            },
+            {
+              "index": 21,
+              "start": 117.573,
+              "end": 121.846
+            },
+            {
+              "index": 22,
+              "start": 121.846,
+              "end": 123.227
+            },
+            {
+              "index": 23,
+              "start": 123.227,
+              "end": 125.712
+            },
+            {
+              "index": 24,
+              "start": 125.712,
+              "end": 136.715
+            },
+            {
+              "index": 25,
+              "start": 136.715,
+              "end": 138.532
+            },
+            {
+              "index": 26,
+              "start": 138.532,
+              "end": 141.25
+            },
+            {
+              "index": 27,
+              "start": 141.25,
+              "end": 145.203
+            },
+            {
+              "index": 28,
+              "start": 145.203,
+              "end": 156.497
+            },
+            {
+              "index": 29,
+              "start": 156.497,
+              "end": 158.372
+            },
+            {
+              "index": 30,
+              "start": 158.372,
+              "end": 163.198
+            },
+            {
+              "index": 31,
+              "start": 163.198,
+              "end": 169.448
+            },
+            {
+              "index": 32,
+              "start": 169.448,
+              "end": 174.549
+            },
+            {
+              "index": 33,
+              "start": 174.549,
+              "end": 180.48
+            },
+            {
+              "index": 34,
+              "start": 180.48,
+              "end": 187.224
+            },
+            {
+              "index": 35,
+              "start": 187.224,
+              "end": 194.712
+            }
+          ]
+        },
+        {
+          "chapter": 5,
+          "src": "tracks/female/study/06.mp3",
+          "duration": 127.584,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 3.328
+            },
+            {
+              "index": 1,
+              "start": 3.328,
+              "end": 9.913
+            },
+            {
+              "index": 2,
+              "start": 9.913,
+              "end": 15.451
+            },
+            {
+              "index": 3,
+              "start": 15.451,
+              "end": 19.884
+            },
+            {
+              "index": 4,
+              "start": 19.884,
+              "end": 23.953
+            },
+            {
+              "index": 5,
+              "start": 23.953,
+              "end": 28.517
+            },
+            {
+              "index": 6,
+              "start": 28.517,
+              "end": 33.852
+            },
+            {
+              "index": 7,
+              "start": 33.852,
+              "end": 36.628
+            },
+            {
+              "index": 8,
+              "start": 36.628,
+              "end": 41.119
+            },
+            {
+              "index": 9,
+              "start": 41.119,
+              "end": 42.427
+            },
+            {
+              "index": 10,
+              "start": 42.427,
+              "end": 46.555
+            },
+            {
+              "index": 11,
+              "start": 46.555,
+              "end": 50.131
+            },
+            {
+              "index": 12,
+              "start": 50.131,
+              "end": 61.192
+            },
+            {
+              "index": 13,
+              "start": 61.192,
+              "end": 64.244
+            },
+            {
+              "index": 14,
+              "start": 64.244,
+              "end": 75.741
+            },
+            {
+              "index": 15,
+              "start": 75.741,
+              "end": 81.439
+            },
+            {
+              "index": 16,
+              "start": 81.439,
+              "end": 86.802
+            },
+            {
+              "index": 17,
+              "start": 86.802,
+              "end": 93.532
+            },
+            {
+              "index": 18,
+              "start": 93.532,
+              "end": 105.131
+            },
+            {
+              "index": 19,
+              "start": 105.131,
+              "end": 106.468
+            },
+            {
+              "index": 20,
+              "start": 106.468,
+              "end": 109.273
+            },
+            {
+              "index": 21,
+              "start": 109.273,
+              "end": 114.259
+            },
+            {
+              "index": 22,
+              "start": 114.259,
+              "end": 116.672
+            },
+            {
+              "index": 23,
+              "start": 116.672,
+              "end": 121.177
+            },
+            {
+              "index": 24,
+              "start": 121.177,
+              "end": 127.584
+            }
+          ]
+        },
+        {
+          "chapter": 6,
+          "src": "tracks/female/study/07.mp3",
+          "duration": 74.904,
+          "paragraphs": [
+            {
+              "index": 0,
+              "start": 0.1,
+              "end": 7.529
+            },
+            {
+              "index": 1,
+              "start": 7.529,
+              "end": 9.608
+            },
+            {
+              "index": 2,
+              "start": 9.608,
+              "end": 18.387
+            },
+            {
+              "index": 3,
+              "start": 18.387,
+              "end": 24.302
+            },
+            {
+              "index": 4,
+              "start": 24.302,
+              "end": 34.172
+            },
+            {
+              "index": 5,
+              "start": 34.172,
+              "end": 38.096
+            },
+            {
+              "index": 6,
+              "start": 38.096,
+              "end": 41.933
+            },
+            {
+              "index": 7,
+              "start": 41.933,
+              "end": 45.523
+            },
+            {
+              "index": 8,
+              "start": 45.523,
+              "end": 47.02
+            },
+            {
+              "index": 9,
+              "start": 47.02,
+              "end": 56.148
+            },
+            {
+              "index": 10,
+              "start": 56.148,
+              "end": 60.48
+            },
+            {
+              "index": 11,
+              "start": 60.48,
+              "end": 65.116
+            },
+            {
+              "index": 12,
+              "start": 65.116,
+              "end": 69.869
+            },
+            {
+              "index": 13,
+              "start": 69.869,
+              "end": 70.916
+            },
+            {
+              "index": 14,
+              "start": 70.916,
+              "end": 74.904
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "previews": {
+    "male": [
+      {
+        "label": "开头",
+        "src": "previews/male-1.mp3",
+        "duration": 25.008,
+        "chapter": 0,
+        "paragraph": 0
+      },
+      {
+        "label": "高潮",
+        "src": "previews/male-6.mp3",
+        "duration": 33.48,
+        "chapter": 5,
+        "paragraph": 15
+      },
+      {
+        "label": "结尾",
+        "src": "previews/male-7.mp3",
+        "duration": 14.136,
+        "chapter": 6,
+        "paragraph": 11
+      }
+    ],
+    "female": [
+      {
+        "label": "开头",
+        "src": "previews/female-1.mp3",
+        "duration": 26.832,
+        "chapter": 0,
+        "paragraph": 0
+      },
+      {
+        "label": "高潮",
+        "src": "previews/female-6.mp3",
+        "duration": 35.088,
+        "chapter": 5,
+        "paragraph": 15
+      },
+      {
+        "label": "结尾",
+        "src": "previews/female-7.mp3",
+        "duration": 13.536,
+        "chapter": 6,
+        "paragraph": 11
+      }
+    ]
+  },
+  "words": {
+    "accuse": "words/accuse.mp3",
+    "narrow": "words/narrow.mp3",
+    "promise": "words/promise.mp3",
+    "ordinary": "words/ordinary.mp3",
+    "silver": "words/silver.mp3",
+    "secret": "words/secret.mp3",
+    "touch": "words/touch.mp3",
+    "memory": "words/memory.mp3",
+    "borrow": "words/borrow.mp3",
+    "compare": "words/compare.mp3",
+    "suspect": "words/suspect.mp3",
+    "surface": "words/surface.mp3",
+    "flame": "words/flame.mp3",
+    "shadow": "words/shadow.mp3",
+    "ancient": "words/ancient.mp3",
+    "mirror": "words/mirror.mp3",
+    "direction": "words/direction.mp3",
+    "reverse": "words/reverse.mp3",
+    "connect": "words/connect.mp3",
+    "separate": "words/separate.mp3",
+    "forbid": "words/forbid.mp3",
+    "protect": "words/protect.mp3",
+    "reveal": "words/reveal.mp3",
+    "evidence": "words/evidence.mp3",
+    "entrance": "words/entrance.mp3",
+    "claim": "words/claim.mp3",
+    "dawn": "words/dawn.mp3",
+    "admit": "words/admit.mp3",
+    "delay": "words/delay.mp3",
+    "duty": "words/duty.mp3",
+    "condition": "words/condition.mp3",
+    "limit": "words/limit.mp3",
+    "abandon": "words/abandon.mp3",
+    "courage": "words/courage.mp3",
+    "breath": "words/breath.mp3",
+    "recognize": "words/recognize.mp3",
+    "witness": "words/witness.mp3",
+    "refuse": "words/refuse.mp3",
+    "destroy": "words/destroy.mp3",
+    "silent": "words/silent.mp3",
+    "command": "words/command.mp3",
+    "trust": "words/trust.mp3",
+    "crack": "words/crack.mp3",
+    "prison": "words/prison.mp3",
+    "temperature": "words/temperature.mp3",
+    "disappear": "words/disappear.mp3",
+    "return": "words/return.mp3"
+  },
+  "limitations": [
+    "神经合成，不是真人配音；当前公开服务不支持自定义情绪 SSML。",
+    "语速与标点用于叙事节奏；对白使用同一旁白声音。"
+  ],
+  "modes": {
+    "story": {
+      "label": "故事模式",
+      "description": "连贯阅读中文剧情与嵌入英文，不念括号释义。",
+      "trackMode": "story",
+      "playbackRateFactor": 1
+    },
+    "study": {
+      "label": "跟学 · 含释义",
+      "description": "英文后用标点留出停顿，并读中文释义。",
+      "trackMode": "study",
+      "playbackRateFactor": 1
+    },
+    "study-no-gloss": {
+      "label": "跟学 · 不含释义",
+      "description": "复用故事音轨以0.85倍速减速跟读；没有另加逐词停顿。",
+      "trackMode": "story",
+      "playbackRateFactor": 0.85
+    }
+  }
+}
