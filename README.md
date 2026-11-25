@@ -18,3 +18,7 @@
 网站首页为 `index.html`，完整四级小说入口为 `books/cet4-lost-found/index.html`。路径保持相对形式，兼容GitHub Pages的仓库子路径。
 
 词汇、音标与发音资料的来源说明保留在相应页面和 `vocab/pronunciation-licenses/` 中。
+
+## 青春校园 · 等你入镜
+
+四级青春校园小说《等你入镜》共60章，覆盖来源词表4424词。入口为 `books/cet4-in-frame/`，支持分章阅读、三种释义模式、语境词卡、收藏和独立阅读进度。首页四级下的“青春校园”分类已接入。
